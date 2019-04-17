@@ -1,1 +1,1 @@
-# RUBY_NOTLARI
+puts "NYP dersinden örnekler"
