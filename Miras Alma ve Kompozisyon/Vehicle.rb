@@ -1,11 +1,5 @@
 class Vehicle
-    # Araç'la ilgili tüm ortak akıl burada... 
-  def start_engine
-    puts "başla"
-  end
-  def stop_engine
-    puts "dur"
-  end
+    # Araç'la ilgili tüm ortak akıl burada...
 end
 
 class Engine
