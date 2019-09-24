@@ -122,6 +122,7 @@ while 1
         end
       elsif numaralar.empty?
         puts "Berabere bitti!"
+        puts oyun
         break
       end
       bilgisayar = numaralar.sample
@@ -230,6 +231,7 @@ while 1
         end
       elsif numaralar.empty?
         puts "Berabere bitti!"
+        puts oyun
         break
       end
       puts oyun
